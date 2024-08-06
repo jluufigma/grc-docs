@@ -41,9 +41,6 @@ title: Supply Chain Risk Management
 \
 \
 \
-\
-\
-\
 ![Static Badge](https://img.shields.io/badge/Figma_for_Government-red?logo=figma&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/Classification-Internal-white?logo=readthedocs&logoColor=ffffff)
 
