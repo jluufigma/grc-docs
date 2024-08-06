@@ -30,7 +30,9 @@ title: Supply Chain Risk Management
 
 * Monitoring Procedures: Define procedures for monitoring supply chain activities and performance to detect and respond to potential risks.
 * Regular Reviews: Describe the schedule and process for conducting regular reviews of supply chain risk management practices.
-
+<!--ref links -->
+[commitbadge]: https://img.shields.io/github/last-commit/jluufigma/grc-docs?path=gov%2Fsr.md&logo=figma&logoColor=white&label=last%20updated&color=darkgreen
+[commits]: https://github.com/jluufigma/grc-docs/commits/main/gov/sr.md
 
 ***  
 \
@@ -41,8 +43,10 @@ title: Supply Chain Risk Management
 \
 \
 \
+\
+\
+\
+\
 ![Static Badge](https://img.shields.io/badge/Figma_for_Government-red?logo=figma&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/Classification-Internal-white?logo=readthedocs&logoColor=ffffff)
-<!--ref links -->
-[commitbadge]: https://img.shields.io/github/last-commit/jluufigma/grc-docs?path=gov%2Fsr.md&logo=figma&logoColor=white&label=last%20updated&color=darkgreen
-[commits]: https://github.com/jluufigma/grc-docs/commits/main/gov/sr.md
+
