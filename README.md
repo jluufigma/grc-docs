@@ -1,7 +1,5 @@
 # Security Compliance Policies
 
-<hr>
-
 ![Static Badge](https://img.shields.io/badge/Figma_for_Government-red?style=for-the-badge&logo=figma&logoColor=white)
 
 
