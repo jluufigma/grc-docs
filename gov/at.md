@@ -6,7 +6,7 @@ title: Awareness and Training
 [![Static Badge](https://img.shields.io/badge/Approved-darkgreen?logo=ticktick&logoColor=ffffff)][commits]
 
 <!--bodytext-->
-### Training Programs
+### Training Program
 
 * Security Awareness Training: Detail the content and frequency of general security awareness training for all personnel.
 * Role-Based Training: Specify additional training requirements based on specific roles and responsibilities (e.g., IT staff, system administrators).
