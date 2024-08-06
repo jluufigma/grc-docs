@@ -8,8 +8,10 @@ header-includes: |
     \pagestyle{fancy}
     \fancyhead[L]{ }
     \fancyhead[C]{ }
-    \fancyhead[R]{Figma for Government}
-    \fancyfoot[L]{Internal}
+    \fancyhead[R]{ |
+    ![Static Badge](https://img.shields.io/badge/Figma_for_Government-red?logo=figma&logoColor=ffffff)}
+    \fancyfoot[L]{ | 
+    ![Static Badge](https://img.shields.io/badge/Classification-Internal-white?logo=readthedocs&logoColor=ffffff)}
     \fancyfoot[C]{ }
     \fancyfoot[R]{\thepage}
 ---
