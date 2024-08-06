@@ -30,6 +30,8 @@ title: Incident Response
 * Tools and Technologies: List the tools and technologies used for incident detection, analysis, and response.
 * Resource Allocation: Describe how resources are allocated to support incident response efforts.
 
+*** 
+
 <!--ref links -->
 [commitbadge]: https://img.shields.io/github/last-commit/jluufigma/grc-docs?path=gov%2Fir.md&logo=figma&logoColor=white&label=last%20updated&color=darkgreen
 [commits]: https://github.com/jluufigma/grc-docs/commits/main/gov/ir.md

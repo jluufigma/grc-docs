@@ -23,6 +23,8 @@ title: System and Communication Protection
 * Encryption Requirements: Specify the encryption standards and protocols used to protect data at rest and in transit.
 * Key Management: Outline procedures for managing encryption keys, including generation, distribution, storage, and rotation.
 
+*** 
+
 <!--ref links -->
 [commitbadge]: https://img.shields.io/github/last-commit/jluufigma/grc-docs?path=gov%2Fsc.md&logo=figma&logoColor=white&label=last%20updated&color=darkgreen
 [commits]: https://github.com/jluufigma/grc-docs/commits/main/gov/sc.md

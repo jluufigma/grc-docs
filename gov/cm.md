@@ -32,6 +32,8 @@ title: Configuration Management
 * Incident Response: Describe the procedures for responding to incidents related to configuration issues, including the restoration of configurations to a known good state.
 * Configuration Restoration: Outline the process for restoring configurations following an incident or change, including backup and recovery procedures.
 
+*** 
+
 <!--ref links -->
 [commitbadge]: https://img.shields.io/github/last-commit/jluufigma/grc-docs?path=gov%2Fcm.md&logo=figma&logoColor=white&label=last%20updated&color=darkgreen
 [commits]: https://github.com/jluufigma/grc-docs/commits/main/gov/cm.md

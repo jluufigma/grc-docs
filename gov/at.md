@@ -28,6 +28,8 @@ title: Awareness and Training
 * Record-Keeping: Specify how training records will be maintained, including completion certificates and attendance logs.
 * Documentation: Describe how training materials and updates will be documented and made accessible.
 
+*** 
+
 <!--ref links -->
 [commitbadge]: https://img.shields.io/github/last-commit/jluufigma/grc-docs?path=gov%2Fat.md&logo=figma&logoColor=white&label=last%20updated&color=darkgreen
 [commits]: https://github.com/jluufigma/grc-docs/commits/main/gov/at.md

@@ -33,6 +33,8 @@ title: Identification and Authentication
 * Incident Response: Describe procedures for responding to authentication-related incidents, such as compromised credentials or unauthorized access.
 * Incident Reporting: Outline how authentication incidents should be reported and managed.
 
+*** 
+
 <!--ref links -->
 [commitbadge]: https://img.shields.io/github/last-commit/jluufigma/grc-docs?path=gov%2Fia.md&logo=figma&logoColor=white&label=last%20updated&color=darkgreen
 [commits]: https://github.com/jluufigma/grc-docs/commits/main/gov/ia.md

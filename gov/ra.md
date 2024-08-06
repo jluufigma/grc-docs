@@ -32,6 +32,8 @@ title: Risk Assessment
 * Risk Assessment Documentation: Define requirements for documenting risk assessments, including risk identification, analysis, evaluation, and mitigation activities.
 * Reporting Requirements: Describe the requirements for reporting risk assessment findings and status to management and other relevant stakeholders.
 
+*** 
+
 <!--ref links -->
 [commitbadge]: https://img.shields.io/github/last-commit/jluufigma/grc-docs?path=gov%2Fra.md&logo=figma&logoColor=white&label=last%20updated&color=darkgreen
 [commits]: https://github.com/jluufigma/grc-docs/commits/main/gov/ra.md

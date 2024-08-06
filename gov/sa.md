@@ -21,6 +21,8 @@ title: System and Services Acquisition
 * Vendor Selection Process: Describe the process for selecting vendors, including evaluation, negotiation, and awarding of contracts.
 * Contractual Requirements: Define the requirements for contracts, including security and compliance clauses related to FedRAMP.
 
+*** 
+
 <!--ref links -->
 [commitbadge]: https://img.shields.io/github/last-commit/jluufigma/grc-docs?path=gov%2Fsa.md&logo=figma&logoColor=white&label=last%20updated&color=darkgreen
 [commits]: https://github.com/jluufigma/grc-docs/commits/main/gov/sa.md

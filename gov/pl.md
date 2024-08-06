@@ -38,6 +38,8 @@ title: Planning
 * Internal Communication: Describe procedures for internal communication regarding planning activities, including coordination among teams and stakeholders.
 * External Communication: Outline procedures for communicating with external parties, such as regulators or partners, as needed.
 
+*** 
+
 <!--ref links -->
 [commitbadge]: https://img.shields.io/github/last-commit/jluufigma/grc-docs?path=gov%2Fpl.md&logo=figma&logoColor=white&label=last%20updated&color=darkgreen
 [commits]: https://github.com/jluufigma/grc-docs/commits/main/gov/pl.md

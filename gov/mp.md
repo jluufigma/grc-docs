@@ -36,6 +36,8 @@ title: Media Protection
 * Inventory Tracking: Define procedures for tracking and managing media inventory, including maintaining records of media locations and status.
 * Media Labeling: Describe requirements for labeling media to indicate its classification and handling requirements. Restoration: Outline the process for restoring configurations following an incident or change, including backup and recovery procedures.
 
+*** 
+
 <!--ref links -->
 [commitbadge]: https://img.shields.io/github/last-commit/jluufigma/grc-docs?path=gov%2Fmp.md&logo=figma&logoColor=white&label=last%20updated&color=darkgreen
 [commits]: https://github.com/jluufigma/grc-docs/commits/main/gov/mp.md

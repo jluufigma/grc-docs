@@ -29,6 +29,8 @@ title: System and Information Integrity
 * Monitoring Mechanisms: Define the mechanisms used to monitor system and information integrity, including logging and auditing.
 * Anomaly Detection: Describe procedures for detecting and responding to anomalies or irregularities that may indicate integrity issues.
 
+*** 
+
 <!--ref links -->
 [commitbadge]: https://img.shields.io/github/last-commit/jluufigma/grc-docs?path=gov%2Fsi.md&logo=figma&logoColor=white&label=last%20updated&color=darkgreen
 [commits]: https://github.com/jluufigma/grc-docs/commits/main/gov/si.md

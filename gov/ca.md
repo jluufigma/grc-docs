@@ -18,6 +18,8 @@ title: Security Assessment and Authorization
 * Authorization Decision: Describe the process for reviewing the authorization package and making the authorization decision.
 * Authorization Letters: Specify the format and content of the authorization letter issued upon successful authorization.
 
+*** 
+
 <!--ref links -->
 [commitbadge]: https://img.shields.io/github/last-commit/jluufigma/grc-docs?path=gov%2Fca.md&logo=figma&logoColor=white&label=last%20updated&color=darkgreen
 [commits]: https://github.com/jluufigma/grc-docs/commits/main/gov/ca.md

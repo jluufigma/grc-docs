@@ -26,6 +26,8 @@ title: Personnel Security
 * Termination Procedures: Outline procedures for revoking access and retrieving organizational assets when personnel leave the organization or their role changes.
 * Transfer Procedures: Define the steps for managing access and security when personnel are transferred to different roles within the organization.
 
+*** 
+
 <!--ref links -->
 [commitbadge]: https://img.shields.io/github/last-commit/jluufigma/grc-docs?path=gov%2Fps.md&logo=figma&logoColor=white&label=last%20updated&color=darkgreen
 [commits]: https://github.com/jluufigma/grc-docs/commits/main/gov/ps.md

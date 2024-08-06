@@ -32,7 +32,9 @@ title: Physical and Environmental Security
 
 * Monitoring Systems: Define the use of monitoring systems to detect environmental conditions that may impact security (e.g., smoke detectors, water leak sensors).
 * Alert and Response: Describe procedures for responding to environmental alerts and incidents.
-* 
+
+*** 
+  
 <!--ref links -->
 [commitbadge]: https://img.shields.io/github/last-commit/jluufigma/grc-docs?path=gov%2Fpe.md&logo=figma&logoColor=white&label=last%20updated&color=darkgreen
 [commits]: https://github.com/jluufigma/grc-docs/commits/main/gov/pe.md
