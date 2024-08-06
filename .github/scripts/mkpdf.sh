@@ -11,4 +11,4 @@ for md in gov/*.md; do
 		-f markdown-markdown_in_html_blocks \
 		-t markdown >> combined.md
 done
-pandoc combined.md --toc --pdf-engine=xelatex -o figgov-policies.pdf
+pandoc combined.md --toc --pdf-engine=xelatex -fmarkdown-implicit_figures -o figgov-policies.pdf
