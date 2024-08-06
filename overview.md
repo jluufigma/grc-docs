@@ -5,5 +5,3 @@ The Chief Operating Officer and the Security Review Team are responsible for imp
 
 ### Schedule
 The Chief Operating Officer is responsible for reviewing and updating security policies on a quarterly basis.
-
-![image](logo.png)
