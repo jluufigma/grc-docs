@@ -2,7 +2,7 @@
 -- A RawBlock filter to parse inlined html tags, mainly <table>s.
 function RawBlock(raw)
 	if raw.format:match 'html' then
-		return pandoc.read(raw.text, 'html').blocks
+	return pandoc.read(raw.text, 'html').blocks
 	end
 end
 
