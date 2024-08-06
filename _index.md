@@ -1,8 +1,6 @@
 ---
 title: |
-  ![][figmalogo]{width=1in}  
-  Adding a Logo to LaTeX Title
-shorttitle: FedRAMP Security Policies
+  ![figmalogo]  
 geometry: letterpaper, margin=1in, top=1.5in, bottom=1.25in, left=1in, right=1in, headheight=0.5in, headsep=0.25in, footskip=0.5in
 header-includes: |
     \usepackage{fancyhdr}        
@@ -15,11 +13,11 @@ header-includes: |
     \fancyfoot[C]{ }
     \fancyfoot[R]{\thepage}
 ---
-![image][figmalogo]
-
-
-![Static Badge](https://img.shields.io/badge/Figma_for_Government-red?logo=figma&logoColor=ffffff)
+# Figma for Government
+![Static Badge](https://img.shields.io/badge/FedRAMP_Security_Policies-red?logo=figma&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/Classification-Internal-white?logo=readthedocs&logoColor=ffffff)
+
+
 
 
 ### Introduction
