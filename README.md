@@ -3,7 +3,7 @@
 <tr>
 <td>
 
-![Static Badge](https://img.shields.io/badge/Figma_for_Government-red?style=for-the-badge&logo=figma&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Figma_for_Government-red?logo=figma&logoColor=white)
 
 [![Static Badge](https://img.shields.io/badge/-ffffff?style=plastic&&logo=github&logoColor=black)
 Access Control](/gov/ac.md)
@@ -64,7 +64,7 @@ Supply Chain Risk Management](/gov/sr.md)
 
 <td>
 
-![Static Badge](https://img.shields.io/badge/Figma-CBC3E3?style=for-the-badge&logo=figma&logoColor=black)
+![Static Badge](https://img.shields.io/badge/Figma-CBC3E3?logo=figma&logoColor=black)
 
 <!-- 
 [![Static Badge](https://img.shields.io/badge/-ffffff?style=plastic&&logo=notion&logoColor=black)](LINK-TO-NOTION)
