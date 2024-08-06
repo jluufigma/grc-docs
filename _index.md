@@ -1,13 +1,16 @@
 ---
-title: Figma for Government <br> FedRAMP Security Policies
+title: Figma for Government <br><br><br><br><br> FedRAMP Security Policies
 fontsize: 12pt
 geometry: letterpaper, margin=1in, top=1.5in, bottom=1.25in, left=1in, right=1in, headheight=0.5in, headsep=0.25in, footskip=0.5in
 header-includes: |
     \usepackage{fancyhdr}        
     \usepackage{geometry}
     \pagestyle{fancy}
+    \fancyhead[L]{ }
+    \fancyhead[C]{ }
     \fancyhead[R]{Figma For Government}
     \fancyfoot[L]{Internal}
+    \fancyhead[C]{ }
     \fancyfoot[R]{\thepage}
 ---
 
