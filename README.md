@@ -1,7 +1,7 @@
 # Security Compliance Policies
-<table style="width:100%">
+<table>
 <tr>
-<td style="width:50%">
+<td>
 
 ![Static Badge](https://img.shields.io/badge/Figma_for_Government-red?style=for-the-badge&logo=figma&logoColor=white)
 
@@ -62,7 +62,7 @@ Supply Chain Risk Management](/gov/sr.md)
 </td>
 
 
-<td style="width:50%">
+<td>
 
 ![Static Badge](https://img.shields.io/badge/Figma-CBC3E3?style=for-the-badge&logo=figma&logoColor=black)
 
@@ -95,7 +95,7 @@ Cryptography Policy]()
 <br>
 [![Static Badge](https://img.shields.io/badge/-ffffff?style=plastic&&logo=notion&logoColor=black)](https://www.notion.so/figma/Data-Classification-Handling-Policy-969ca492f9344df7ba9e2cb2c51d6280)
 [![Static Badge](https://img.shields.io/badge/-ffffff?style=plastic&&logo=github&logoColor=black)
-Data Handling Policy]()
+Data Classification & Handling Policy]()
 <br>
 [![Static Badge](https://img.shields.io/badge/-ffffff?style=plastic&&logo=notion&logoColor=black)](https://www.notion.so/figma/Data-Retention-Disposal-Policy-2a43fb2f363249f8a8b1ce86de969fb1)
 [![Static Badge](https://img.shields.io/badge/-ffffff?style=plastic&&logo=github&logoColor=black)
@@ -115,7 +115,7 @@ Personal Mobile Device Policy]()
 <br>
 [![Static Badge](https://img.shields.io/badge/-ffffff?style=plastic&&logo=notion&logoColor=black)](https://www.notion.so/figma/Physical-and-Environmental-Security-Policy-f5a4ffd67dfa42f9ba303dbe08b2bdea)
 [![Static Badge](https://img.shields.io/badge/-ffffff?style=plastic&&logo=github&logoColor=black)
-Physical and Environmental Policy]()
+Physical and Environmental Security Policy]()
 <br>
 [![Static Badge](https://img.shields.io/badge/-ffffff?style=plastic&&logo=notion&logoColor=black)](https://www.notion.so/figma/Risk-Fraud-Management-Policy-8259cee989da47f99c754057ec8eaf26)
 [![Static Badge](https://img.shields.io/badge/-ffffff?style=plastic&&logo=github&logoColor=black)
@@ -123,7 +123,7 @@ Risk & Fraud Management Policy]()
 <br>
 [![Static Badge](https://img.shields.io/badge/-ffffff?style=plastic&&logo=notion&logoColor=black)](https://www.notion.so/figma/Security-Privacy-Training-and-Awareness-Policy-b975ad91a46947a788808c6a87005166)
 [![Static Badge](https://img.shields.io/badge/-ffffff?style=plastic&&logo=github&logoColor=black)
-Training and Awareness Policy]()
+Security Training and Awareness Policy]()
 <br>
 [![Static Badge](https://img.shields.io/badge/-ffffff?style=plastic&&logo=notion&logoColor=black)](https://www.notion.so/figma/Secure-Development-Policy-5136cd69e87a4586986c0e0518f7d7e6)
 [![Static Badge](https://img.shields.io/badge/-ffffff?style=plastic&&logo=github&logoColor=black)
@@ -131,7 +131,7 @@ Secure Development Policy]()
 <br>
 [![Static Badge](https://img.shields.io/badge/-ffffff?style=plastic&&logo=notion&logoColor=black)](https://www.notion.so/figma/Security-Logging-and-Monitoring-Policy-260a24dda334494abfbfb63c3cf7c536)
 [![Static Badge](https://img.shields.io/badge/-ffffff?style=plastic&&logo=github&logoColor=black)
-Logging and Monitoring Policy]()
+Logging and Monitoring Security Policy]()
 <br>
 [![Static Badge](https://img.shields.io/badge/-ffffff?style=plastic&&logo=notion&logoColor=black)](https://www.notion.so/figma/Vendor-Management-Policy-7acc8cebe388498d9a9022286dfbc797)
 [![Static Badge](https://img.shields.io/badge/-ffffff?style=plastic&&logo=github&logoColor=black)
@@ -140,13 +140,10 @@ Vendor Management Policy]()
 [![Static Badge](https://img.shields.io/badge/-ffffff?style=plastic&&logo=notion&logoColor=black)](https://www.notion.so/figma/Vulnerability-Management-Policy-4fc2282d8e0346de93d46c2ae4a13148)
 [![Static Badge](https://img.shields.io/badge/-ffffff?style=plastic&&logo=github&logoColor=black)
 Vulnerability Management Policy]()
-
+<br>
+___
 </td>
 </tr>
 </table>
-
-
-
-<hr>
 
 ![Static Badge](https://img.shields.io/badge/Classification-Internal-white?logo=readthedocs&logoColor=ffffff)
