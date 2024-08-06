@@ -7,14 +7,19 @@ title: System and Communication Protection
 
 <!--bodytext-->
 ### Communication Protection
+
 * Data Transmission Security: Describe the measures for securing data transmitted over networks, including encryption and secure protocols.
 * Network Security: Outline procedures for securing network infrastructure, including firewalls, intrusion detection systems, and network segmentation.
 * Communication Channels: Define the requirements for securing communication channels, including email, voice, and messaging systems.
+  
 ### System Protection
+
 * System Security Controls: Outline the security controls implemented to protect systems, including access controls, authentication, and authorization mechanisms.
 * System Hardening: Describe procedures for hardening systems to reduce vulnerabilities, including configuration management and patching.
 * Monitoring and Logging: Define requirements for monitoring and logging system activities to detect and respond to security incidents.
+  
 ### Encryption and Data Protection
+
 * Encryption Requirements: Specify the encryption standards and protocols used to protect data at rest and in transit.
 * Key Management: Outline procedures for managing encryption keys, including generation, distribution, storage, and rotation.
 
