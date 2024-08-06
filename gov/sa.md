@@ -1,27 +1,21 @@
 ---
-title: Audit and Accountability
+title: System and Services Acquisition
 ---
-
-
-
-### cp control and stuff
-[![GitHub last commit](https://img.shields.io/github/last-commit/5andwich/docflocks?path=gov/au.md)][commits]
+[![GitHub last commit][commitbadge]][commits]
 [![Static Badge](https://img.shields.io/badge/Revision_History-gray?logo=searxng&logoColor=ffffff)][commits]
 [![Static Badge](https://img.shields.io/badge/Approved-darkgreen?logo=ticktick&logoColor=ffffff)][commits]
 
-THis is where we have sub
+<!--bodytext-->
+### Acquisition Planning
+* Planning Requirements: Describe the requirements for planning acquisitions, including defining needs, objectives, and requirements for systems and services.
+* Risk Assessment: Outline procedures for assessing risks associated with potential acquisitions, including security and compliance risks.
+### Requirements Definition
+* Requirements Specification: Define the process for specifying security and functional requirements for systems and services.
+* Vendor Evaluation Criteria: Outline the criteria for evaluating vendors and their offerings, including security capabilities and compliance with FedRAMP.
+### Vendor Selection and Procurement
+* Vendor Selection Process: Describe the process for selecting vendors, including evaluation, negotiation, and awarding of contracts.
+* Contractual Requirements: Define the requirements for contracts, including security and compliance clauses related to FedRAMP.
 
-and more text
-
-
-
-
-
-THis is text
-
-
-![Static Badge](https://img.shields.io/badge/Figma_for_Government-red?logo=figma&logoColor=ffffff)
-![Static Badge](https://img.shields.io/badge/Classification-Internal-white?logo=readthedocs&logoColor=ffffff)
-
-
-[commits]: https://github.com/5andwich/docflocks/commits/main/gov/au.md
+<!--ref links -->
+[commitbadge]: https://img.shields.io/github/last-commit/jluufigma/grc-docs?path=gov%2Fsa.md&logo=figma&logoColor=white&label=last%20updated&color=darkgreen
+[commits]: https://github.com/jluufigma/grc-docs/commits/main/gov/sa.md
