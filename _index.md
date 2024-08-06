@@ -1,5 +1,5 @@
 ---
-title: Figma for Government  --------------------------------------------------------------------------------------------  FedRAMP Security Policies
+title: FedRAMP Security Policies 
 fontsize: 12pt
 geometry: letterpaper, margin=1in, top=1.5in, bottom=1.25in, left=1in, right=1in, headheight=0.5in, headsep=0.25in, footskip=0.5in
 header-includes: |
