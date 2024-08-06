@@ -3,10 +3,10 @@ name: Generate PDFs
 on: push
 
 jobs:
-  pandoc:
     runs:
       using: 'node20'
       main: 'main.js'
+      pandoc:
     runs-on: ubuntu-latest
 
     steps:
