@@ -4,7 +4,6 @@ set -e
 printf '\\newpage\n\n' > combined.md
 cat _index.md >> combined.md
 printf '\n\n' >> combined.md
-cat overview.md >> combined.md
 for md in gov/*.md; do
 	printf '\n\n\\newpage\n\n' >> combined.md
 	pandoc $md \
