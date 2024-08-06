@@ -1,7 +1,7 @@
 #!/bin/sh
 set -e
 
-printf '\\newpage\n' > combined.md
+printf '\\newpage\n\n' > combined.md
 cat _index.md >> combined.md
 printf '\n\n' >> combined.md
 for md in gov/*.md; do
