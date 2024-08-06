@@ -15,7 +15,7 @@ jobs:
       - uses: docker://pandoc/latex:latest-ubuntu
         with:
           entrypoint: /bin/sh
-          args: chmod +x .github/scripts/mkpdf.sh
+          args: -c chmod +x .github/scripts/mkpdf.sh
           
       - name: Upload output
         uses: actions/upload-artifact@master
