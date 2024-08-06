@@ -13,12 +13,10 @@ header-includes: |
     \fancyfoot[C]{ }
     \fancyfoot[R]{\thepage}
 ---
-# FedRAMP Security Policies
 ![Static Badge](https://img.shields.io/badge/Figma_for_Government-red?logo=figma&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/Classification-Internal-white?logo=readthedocs&logoColor=ffffff)
 
-
-
+# FedRAMP Security Policies
 
 ### Introduction
 The Figma Access Control Policy is governed by the Figma Security Compliance Team and is developed in compliance with the Access Control family of controls found in National Institute of Standards and Technology (NIST) Special Publication (SP) 800-53, Revision 5. This has been documented and communicated to employees and relevant external parties to support the implementation of the policy and to ensure all Figma personnel understand any applicable requirements.
