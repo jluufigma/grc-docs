@@ -1,7 +1,7 @@
 # Security Compliance Policies
 Type things and say things about what we have here and tables of contents and such 
 e
-
+[![Generate PDFs](https://github.com/jluufigma/grc-docs/actions/workflows/pandoc.yml/badge.svg)](https://github.com/jluufigma/grc-docs/actions/workflows/pandoc.yml)
 
 
 <hr>
