@@ -1,7 +1,4 @@
 # Security Compliance Policies
-Type things and say things about what we have here and tables of contents and such 
-e
-
 
 <hr>
 
@@ -144,7 +141,7 @@ Vendor Management Policy]()
 Vulnerability Management Policy]()
 
 
-<hr>
+
 <hr>
 
 ![Static Badge](https://img.shields.io/badge/Classification-Internal-white?logo=readthedocs&logoColor=ffffff)
