@@ -1,7 +1,7 @@
 #!/bin/sh
 set -e
 
-printf '\\newpage\n\n' > combined.md
+printf '\\newpage\n' > combined.md
 cat _index.md >> combined.md
 printf '\n\n' >> combined.md
 for md in gov/*.md; do
@@ -11,4 +11,4 @@ for md in gov/*.md; do
 		-f markdown-markdown_in_html_blocks \
 		-t markdown >> combined.md
 done
-pandoc combined.md --toc --pdf-engine=xelatex -fmarkdown-implicit_figures -o figgov-policies.pdf
+pandoc combined.md --toc -V toc-title:"" --pdf-engine=xelatex -fmarkdown-implicit_figures -o figgov-policies.pdf
