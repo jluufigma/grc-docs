@@ -21,5 +21,5 @@ THis is text
 ![Static Badge](https://img.shields.io/badge/Figma_for_Government-red?logo=figma&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/Classification-Internal-white?logo=readthedocs&logoColor=ffffff)
 
-[commitbadge]: https://img.shields.io/github/last-commit/jluufigma/grc-docs/gov/ac.md
-[commits]: https://github.com/5andwich/docflocks/commits/main/gov/au.md
+[commitbadge]: https://img.shields.io/github/last-commit/jluufigma/grc-docs/blob/main/gov/ac.md
+[commits]: https://github.com/jluufigma/grc-docs/commits/main/gov/ac.md
