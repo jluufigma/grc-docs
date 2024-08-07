@@ -8,9 +8,10 @@ title: Access Control
 <!--bodytext-->
 ### Access Control Mechanisms
 
-* User Identification and Authentication: Describe mechanisms for user identification and authentication, including password policies and multi-factor authentication (MFA).
+* User Identification and Authentication: Describe mechanisms for user identification and authentication, including password policies and multi-factor authentication.
 * Access Approval: Outline the process for granting, modifying, and revoking access, including the approval workflow.
 * Access Reviews and Audits: Define the process for regular reviews and audits of access controls and user permissions.
+
   
 ### Access Control Policies and Procedures
 
