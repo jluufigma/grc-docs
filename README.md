@@ -145,5 +145,3 @@ ___
 </td>
 </tr>
 </table>
-
-![Static Badge](https://img.shields.io/badge/Classification-Internal-white?logo=readthedocs&logoColor=ffffff)
