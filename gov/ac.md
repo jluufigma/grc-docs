@@ -24,10 +24,6 @@ title: Access Control
 * System Access Controls: Specify controls for system access, including role-based access control (RBAC) and attribute-based access control (ABAC).
 * Remote Access Controls: Define policies and procedures for remote access, including VPNs and remote desktop protocols.
 
-
-
-this is a test
-
 *** 
 
 <!--ref links -->
