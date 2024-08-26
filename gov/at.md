@@ -28,6 +28,8 @@ title: Awareness and Training
 * Record-Keeping: Specify how training records will be maintained, including completion certificates and attendance logs.
 * Documentation: Describe how training materials and updates will be documented and made accessible.
 
+
+back to obsidian
 *** 
 
 <!--ref links -->
