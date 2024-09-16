@@ -7,7 +7,6 @@ title: Audit and Accountability
 
 <!--bodytext-->
 ### Audit Logging
-
 * Log Generation: Describe the types of events that must be logged, including access, modification, and administrative actions.
 * Log Collection: Define how audit logs are collected from various systems and applications.
 * Log Retention: Specify the retention period for audit logs and the procedures for archiving or disposing of logs.
