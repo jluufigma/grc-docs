@@ -9,7 +9,7 @@ config:
   showValues: false
   width: 1000
   height: 500
-  linkColor: 'target'
+  linkColor: 'gradient'
   nodeAlignment: 'center'
 ---
 sankey-beta
