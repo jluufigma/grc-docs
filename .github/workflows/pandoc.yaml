@@ -16,7 +16,12 @@ jobs:
             with:
               entrypoint: /bin/sh
               args: -c .github/scripts/mkpdf.sh
-              
+
+          - uses: docker://pandoc/latex:latest-ubuntu
+            with:
+              entrypoint: /bin/sh
+              args: -c .github/scripts/mkpol.sh
+                  
           - name: Upload output
             uses: actions/upload-artifact@master
             with:
