@@ -1,7 +1,7 @@
 ---
 title: |
   ![figmalogo]
-geometry: letterpaper, margin=1in, top=1.5in, bottom=1.25in, left=1in, right=1in, headheight=0.5in, headsep=0.25in, footskip=0.5in
+geometry: letterpaper, margin=1in, top=1in, bottom=1in, left=1in, right=1in, headheight=0.5in, headsep=0.25in, footskip=0.5in
 header-includes: |
     \usepackage{fancyhdr}        
     \usepackage{geometry}
@@ -13,15 +13,11 @@ header-includes: |
     \fancyfoot[C]{ }
     \fancyfoot[R]{\thepage}
 ---
-# FedRAMP Security Policies
 ![Static Badge](https://img.shields.io/badge/Figma_for_Government-red?logo=figma&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/Classification-Internal-white?logo=readthedocs&logoColor=ffffff)
 
-
-
-
 ### Introduction
-The Figma Access Control Policy is governed by the Figma Security Compliance Team and is developed in compliance with the Access Control family of controls found in National Institute of Standards and Technology (NIST) Special Publication (SP) 800-53, Revision 5. This has been documented and communicated to employees and relevant external parties to support the implementation of the policy and to ensure all Figma personnel understand any applicable requirements.
+The Figma Policies are governed by the Figma Security Compliance Team and is developed in compliance with the Access Control family of controls found in National Institute of Standards and Technology (NIST) Special Publication (SP) 800-53, Revision 5. This has been documented and communicated to employees and relevant external parties to support the implementation of the policy and to ensure all Figma personnel understand any applicable requirements.
 
 ### Purpose
 The purpose of these policies is to establish access control requirements to ensure that the confidentiality, integrity, and availability of Figma’s systems, facilities, and data are protected. These policies are consistent with applicable state and federal laws, Executive Orders, directives, regulations, standards, and guidance. 
