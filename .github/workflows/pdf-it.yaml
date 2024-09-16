@@ -21,7 +21,7 @@ jobs:
             uses: actions/upload-artifact@master
             with:
               name: Figma-Policies-Combined.pdf
-              path: figgov-policies.pdf
+              path: Figma-Policies-Combined.pdf
               
           - uses: docker://pandoc/latex:latest-ubuntu
             with:
@@ -31,5 +31,5 @@ jobs:
           - name: Upload output
             uses: actions/upload-artifact@master
             with:
-              name: figgov-a.pdf
-              path: figgov-a.pdf
+              name: Figma-Procedures-Combined.pdf
+              path: Figma-Procedures-Combined.pdf
