@@ -26,7 +26,10 @@ jobs:
           - uses: docker://pandoc/latex:latest-ubuntu
             with:
               entrypoint: /bin/sh
-              args: -c .github/scripts/procedures.sh
+              args: >-
+                 --template=./.github/templates/template.tex
+                 -c .github/scripts/procedures.sh
+              
                   
           - name: Upload output
             uses: actions/upload-artifact@master
