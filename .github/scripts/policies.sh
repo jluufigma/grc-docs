@@ -1,9 +1,9 @@
 #!/bin/sh
 set -e
 
-printf '\\newpage\n' > combined.md
+printf '\\newpage\n\n' > combined.md
 cat _index.md >> combined.md
-printf '\n' >> combined.md
+printf '\n\n' >> combined.md
 for md in policies/*.md; do
 	printf '\n\n\\newpage\n\n' >> combined.md
 	pandoc $md \
