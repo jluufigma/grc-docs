@@ -1,7 +1,7 @@
 ...
 env:
   SLACK_WEBHOOK_URL: https://hooks.slack.com/triggers/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
-  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  GITHUB_TOKEN: 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
 jobs:
   smoke-test:
    runs-on: ubuntu-latest
@@ -15,7 +15,7 @@ jobs:
        run: newman run "postman_collection.json" --environment "postman_environment.json" --reporters cli,htmlextra --reporter-htmlextra-export report.html
      - if: failure()
        uses: actions/upload-artifact@v2
-       id: generating-report
+       id: generating-pdfs
        with:
          name: reports
          path: report.html
