@@ -28,7 +28,7 @@ jobs:
               name: figgov-policies.pdf
               path: figgov-policies.pdf
 
-        - name: Upload output
+         - name: Upload output
             uses: actions/upload-artifact@master
             with:
               name: figgov-a.pdf
