@@ -3,32 +3,36 @@
 
 ```mermaid
 ---
-config: 
+config:
+ themeCSS: white
  sankey: 
   showValues: false
-
+  width: 1000
+  height: 500
+  linkColor: 'target'
+  nodeAlignment: 'center'
 ---
 sankey-beta
 
 %% Frameworks,Policies,Weight
-ISO 27001,Data  Policy,1
-ISO 27001, Control Policy,1
-ISO 27001,Incident  Policy,1
-ISO 27001,Data Protection ,1
-ISO 27001,Access Control ,1
-ISO 27001, Response Policy,1
+ISO 27001,Risk Management,1
+ISO 27001,Access Control,1
+ISO 27001,Incident Response ,1
+ISO 27001,Data Protection,1
+ISO 27001,Continuous Monitoring,1
+ISO 27001,System Integrity,1
 
-FedRAMP, Protection Policy,1
-FedRAMP,Incident Response Policy,1
-FedRAMP,Data Protection Policy,1
-FedRAMP, Response Policy,1
+FedRAMP,Audit and Accountability,1
+FedRAMP,Incident Response,1
+FedRAMP,Supply Chain Risk,1
+FedRAMP,Risk Management,1
 
-SOC 2,Access  Policy,1
-SOC 2, Response Policy,1
-SOC 2,Monitoring Policy,2
-SOC 2,Access  Policy,1
-SOC 2, Response Policy,1
-SOC 2,Monitoring ,2
+SOC 2,Access Control,1
+SOC 2,Incident Response,1
+SOC 2,Continuous Monitoring,1
+SOC 2,Data Protection,1
+SOC 2,Supply Chain Risk,1
+SOC 2,Monitoring ,1
 ```
 
 [![Static Badge](https://img.shields.io/badge/-ffffff?style=plastic&&logo=github&logoColor=black)
