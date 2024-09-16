@@ -20,8 +20,8 @@ jobs:
           - name: Upload output
             uses: actions/upload-artifact@master
             with:
-              name: Figma-Policies-Combined.md
-              path: Figma-Policies-Combined.md
+              name: Figma-Policies-Combined.pdf
+              path: Figma-Policies-Combined.pdf
               
           - uses: docker://pandoc/latex:latest-ubuntu
             with:
