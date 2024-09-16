@@ -11,4 +11,4 @@ for md in policies/*.md; do
 		-f markdown-markdown_in_html_blocks \
 		-t markdown >> combined.md
 done
-pandoc combined.md --toc -V toc-title:"Figma Security Policies" --pdf-engine=xelatex --template ./.github/pandoc/templates/eisvogel.latex -fmarkdown-implicit_figures -o Figma-Policies-Combined.pdf
+pandoc combined.md --toc -V toc-title:"Figma Security Policies" --pdf-engine=xelatex -fmarkdown-implicit_figures -o Figma-Policies-Combined.pdf
