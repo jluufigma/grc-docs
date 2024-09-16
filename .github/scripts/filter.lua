@@ -1,4 +1,6 @@
-
+---
+sansfont: DejaVuSans.ttf
+---
 -- A RawBlock filter to parse inlined html tags, mainly <table>s.
 function RawBlock(raw)
 	if raw.format:match 'html' then
