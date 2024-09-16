@@ -3,7 +3,7 @@ name: Generate PDFs
 on: push
 
 jobs:
-    pandoc:
+    Generating-PDFs:
         runs-on: ubuntu-latest
 
         steps:
