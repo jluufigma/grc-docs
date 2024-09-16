@@ -59,5 +59,5 @@ The following requirements, mechanisms, and provisions are to be followed by all
 
 
 
-[figmalogo]: logo.png
+[figmalogo]: figlogo.png
 [def]: logo.png
