@@ -12,7 +12,7 @@ jobs:
             with:
               fetch-depth: 0
 
-          - uses: docker://pandoc/core:3.3
+          - uses: docker://pandoc/latex:latest-ubuntu
             with:
               args: >- 
                 --template=./.github/templates/template.tex   
