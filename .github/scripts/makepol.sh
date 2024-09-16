@@ -1,6 +1,6 @@
 #!/bin/sh
 set -e
-git update-index --chmod=+x ./.github/scripts/makepol.sh
+
 printf '\\newpage\n\n' > combined.md
 cat _index.md >> combined.md
 printf '\n\n' >> combined.md
