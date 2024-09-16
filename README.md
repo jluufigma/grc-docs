@@ -18,7 +18,7 @@ sankey-beta
 ISO 27001,Risk Management,1
 ISO 27001,Access Control,1
 ISO 27001,Incident Response ,1
-ISO 27001,Data Protection,1
+ISO 27001,Audit and Accountability,1
 ISO 27001,Continuous Monitoring,1
 ISO 27001,System Integrity,1
 
@@ -27,12 +27,31 @@ FedRAMP,Incident Response,1
 FedRAMP,Supply Chain Risk,1
 FedRAMP,Risk Management,1
 
+C5,Access Control,1
+C5,Incident Response,1
+C5,Continuous Monitoring,1
+C5,Data Protection,1
+C5,Supply Chain Risk,1
+C5,Personnel Security ,1
+
 SOC 2,Access Control,1
 SOC 2,Incident Response,1
-SOC 2,Continuous Monitoring,1
-SOC 2,Data Protection,1
+SOC 2,Planning,1
+SOC 2,Awareness and Training,1
 SOC 2,Supply Chain Risk,1
-SOC 2,Monitoring ,1
+SOC 2,Maintenance ,1
+
+ISO 27701,Risk Management,1
+ISO 27701,Access Control,1
+ISO 27701,Incident Response ,1
+ISO 27701,Configuration Management,1
+ISO 27701,Continuous Monitoring,1
+ISO 27701,System Integrity,1
+
+TISAX,Audit and Accountability,1
+TISAX,Incident Response,1
+TISAX,Supply Chain Risk,1
+TISAX,Risk Management,1
 ```
 
 [![Static Badge](https://img.shields.io/badge/-ffffff?style=plastic&&logo=github&logoColor=black)
