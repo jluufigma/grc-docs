@@ -15,10 +15,10 @@ jobs:
           - uses: docker://pandoc/latex:latest-ubuntu
             with:
               entrypoint: /bin/sh
-              args: -c .github/scripts/mkpdf.sh
+              args: -c .github/scripts/makepol.sh
               
           - name: Upload output
             uses: actions/upload-artifact@master
             with:
-              name: figgov-policies.pdf
-              path: figgov-policies.pdf
+              name: polpol-policies.pdf
+              path: polpol-policies.pdf
