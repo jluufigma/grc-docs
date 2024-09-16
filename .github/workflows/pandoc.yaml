@@ -16,6 +16,10 @@ jobs:
             with:
               entrypoint: /bin/sh
               args: -c .github/scripts/mkpdf.sh
+
+          - uses: docker://pandoc/latex:latest-ubuntu
+            with:
+              entrypoint: /bin/sh
               args: -c .github/scripts/makepol.sh
                   
           - name: Upload output
@@ -23,3 +27,9 @@ jobs:
             with:
               name: figgov-policies.pdf
               path: figgov-policies.pdf
+
+        - name: Upload output
+            uses: actions/upload-artifact@master
+            with:
+              name: figgov-a.pdf
+              path: figgov-a.pdf
