@@ -11,4 +11,4 @@ for md in procedures/*.md; do
 		-f markdown-markdown_in_html_blocks \
 		-t markdown >> combined.md
 done
-pandoc combined.md --toc -V toc-title:"Figma" --pdf-engine=xelatex setmainfont='Arial' -fmarkdown-implicit_figures -o Figma-Procedures-Combined.pdf
+pandoc combined.md -o Figma-Procedures-Combined.pdf --toc -V toc-title:"Figma" --pdf-engine=xelatex setmainfont='Helvetica' -fmarkdown-implicit_figures
