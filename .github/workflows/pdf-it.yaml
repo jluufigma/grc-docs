@@ -10,7 +10,7 @@ jobs:
           - name: Check out code
             uses: actions/checkout@v4
             with:
-              fetch-depth: 0 
+              fetch-depth: 0
               
           - uses: docker://pandoc/latex:latest-ubuntu
             with:
@@ -27,7 +27,7 @@ jobs:
             with:
               entrypoint: /bin/sh
               args: -c .github/scripts/procedures.sh
-                                
+                  
           - name: Upload output
             uses: actions/upload-artifact@master
             with:
