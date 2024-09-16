@@ -5,6 +5,7 @@ on: push
 jobs:
     pandoc:
         runs-on: ubuntu-latest
+         git update-index --chmod=+x makepol.sh
 
         steps:
           - name: Check out code
