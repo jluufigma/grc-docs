@@ -1,4 +1,4 @@
-svoname: Generate PDFs
+name: Generate PDFs
 
 on: push
 
