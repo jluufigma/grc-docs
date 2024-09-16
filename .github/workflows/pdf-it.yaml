@@ -16,26 +16,14 @@ jobs:
             with:
               args: >- 
                 --template=./.github/templates/template.tex   
-              
-          - uses: docker://pandoc/latex:latest-ubuntu
-            with:
               entrypoint: /bin/sh
               args: -c .github/scripts/policies.sh
-
-          - name: Upload output
-            uses: actions/upload-artifact@master
-            with:
-              name: Figma-Policies-Combined.pdf
-              path: Figma-Policies-Combined.pdf
-              
-          - uses: docker://pandoc/latex:latest-ubuntu
-            with:
-              entrypoint: /bin/sh
               args: -c .github/scripts/procedures.sh
               
-                  
           - name: Upload output
             uses: actions/upload-artifact@master
             with:
               name: Figma-Procedures-Combined.pdf
               path: Figma-Procedures-Combined.pdf
+              name: Figma-Policies-Combined.pdf
+              path: Figma-Policies-Combined.pdf 
