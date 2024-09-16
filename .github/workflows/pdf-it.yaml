@@ -11,6 +11,11 @@ jobs:
             uses: actions/checkout@v4
             with:
               fetch-depth: 0
+
+          - uses: docker://pandoc/core:3.3
+            with:
+              args: >- 
+                --template=./path/to/template.tex   
               
           - uses: docker://pandoc/latex:latest-ubuntu
             with:
@@ -26,9 +31,7 @@ jobs:
           - uses: docker://pandoc/latex:latest-ubuntu
             with:
               entrypoint: /bin/sh
-              args: >-
-                 --template=./.github/templates/template.tex
-                 -c .github/scripts/procedures.sh
+              args: -c .github/scripts/procedures.sh
               
                   
           - name: Upload output
