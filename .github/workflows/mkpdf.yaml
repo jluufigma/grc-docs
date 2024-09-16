@@ -15,7 +15,7 @@ jobs:
           - uses: docker://pandoc/latex:latest-ubuntu
             with:
               entrypoint: /bin/sh
-              args: -c .github/scripts/combine_policies.sh -V 'sansfont:DejaVuSans.ttf'
+              args: -c .github/scripts/combine_policies.sh
 
           - name: Upload output
             uses: actions/upload-artifact@master
