@@ -15,7 +15,7 @@ jobs:
           - uses: docker://pandoc/core:3.3
             with:
               args: >- 
-                --template=./path/to/template.tex   
+                --template=./.github/templates/template.tex   
               
           - uses: docker://pandoc/latex:latest-ubuntu
             with:
