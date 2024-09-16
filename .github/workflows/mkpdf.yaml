@@ -17,7 +17,6 @@ jobs:
               entrypoint: /bin/sh
               args: -c .github/scripts/combine_policies.sh --template=./.github/pandoc/templates/eisvogel.tex
 
-
           - name: Upload output
             uses: actions/upload-artifact@master
             with:
