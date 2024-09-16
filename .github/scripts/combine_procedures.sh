@@ -11,4 +11,4 @@ for md in procedures/*.md; do
 		-f markdown-markdown_in_html_blocks \
 		-t markdown >> combined.md
 done
-pandoc combined.md -o Figma-Procedures-Combined.pdf --toc -V toc-title:"PROCEDURES" --pdf-engine=xelatex --template ./pandoc/templates/eisvogel -fmarkdown-implicit_figures
+pandoc combined.md -o Figma-Procedures-Combined.pdf --toc -V toc-title:"PROCEDURES" --pdf-engine=xelatex --template ./.github/pandoc/templates/eisvogel -fmarkdown-implicit_figures
