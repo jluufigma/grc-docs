@@ -8,10 +8,11 @@ header-includes: |
     \pagestyle{fancy}
     \fancyhead[L]{ }
     \fancyhead[C]{ }
-    \fancyhead[R]{Figma for Government}
+    \fancyhead[R]{Figma}
     \fancyfoot[L]{Internal}
     \fancyfoot[C]{ }
     \fancyfoot[R]{\thepage}
+-V 'sansfont:DejaVuSans.ttf' 
 ---
 ![Static Badge](https://img.shields.io/badge/Figma_for_Government-red?logo=figma&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/Classification-Internal-white?logo=readthedocs&logoColor=ffffff)
