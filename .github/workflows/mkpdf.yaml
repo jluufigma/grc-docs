@@ -1,4 +1,4 @@
-name: Generate PDFs
+svoname: Generate PDFs
 
 on: push
 
@@ -15,7 +15,7 @@ jobs:
           - uses: docker://pandoc/latex:latest-ubuntu
             with:
               entrypoint: /bin/sh
-              args: -c .github/scripts/combine_policies.sh --template=./.github/pandoc/templates/template.tex
+              args: -c .github/scripts/combine_policies.sh --template=./.github/pandoc/templates/eisvogel.tex
 
 
           - name: Upload output
