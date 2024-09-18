@@ -6,9 +6,9 @@
 config:
  themeCSS: white
  sankey: 
-  showValues: false
+  showValues: true
   width: 1000
-  height: 500
+  height: 800
   linkColor: 'gradient'
   nodeAlignment: 'center'
 ---
@@ -74,56 +74,56 @@ TISAX,Supply Chain Risk Management,1
 ```
 
 [![Static Badge](https://img.shields.io/badge/-ffffff?style=plastic&&logo=github&logoColor=black)
-Access Control](/gov/ac.md)
+Access Control](/policies/ac.md)
 <br>
 [![Static Badge](https://img.shields.io/badge/-ffffff?style=plastic&&logo=github&logoColor=black)
-Awareness and Training](/gov/at.md)
+Awareness and Training](/policies/at.md)
 <br>
 [![Static Badge](https://img.shields.io/badge/-ffffff?style=plastic&&logo=github&logoColor=black)
-Audit and Accountability](/gov/au.md)
+Audit and Accountability](/policies/au.md)
 <br>
 [![Static Badge](https://img.shields.io/badge/-ffffff?style=plastic&&logo=github&logoColor=black)
-Security Assessment and Authorization](/gov/ca.md)
+Security Assessment and Authorization](/policies/ca.md)
 <br>
 [![Static Badge](https://img.shields.io/badge/-ffffff?style=plastic&&logo=github&logoColor=black)
-Configuration Management](/gov/cm.md)
+Configuration Management](/policies/cm.md)
 <br>
 [![Static Badge](https://img.shields.io/badge/-ffffff?style=plastic&&logo=github&logoColor=black)
-Contingency Planning](/gov/cp.md)
+Contingency Planning](/policies/cp.md)
 <br>
 [![Static Badge](https://img.shields.io/badge/-ffffff?style=plastic&&logo=github&logoColor=black)
-Identification and Authentication](/gov/ia.md)
+Identification and Authentication](/policies/ia.md)
 <br>
 [![Static Badge](https://img.shields.io/badge/-ffffff?style=plastic&&logo=github&logoColor=black)
-Incident Response](/gov/ir.md)
+Incident Response](/policies/ir.md)
 <br>
 [![Static Badge](https://img.shields.io/badge/-ffffff?style=plastic&&logo=github&logoColor=black)
-Maintenance](/gov/ma.md)
+Maintenance](/policies/ma.md)
 <br>
 [![Static Badge](https://img.shields.io/badge/-ffffff?style=plastic&&logo=github&logoColor=black)
-Media Protection](/gov/mp.md)
+Media Protection](/policies/mp.md)
 <br>
 [![Static Badge](https://img.shields.io/badge/-ffffff?style=plastic&&logo=github&logoColor=black)
-Physical and Environmental Protection](/gov/pe.md)
+Physical and Environmental Protection](/policies/pe.md)
 <br>
 [![Static Badge](https://img.shields.io/badge/-ffffff?style=plastic&&logo=github&logoColor=black)
-Planning](/gov/pl.md)
+Planning](/policies/pl.md)
 <br>
 [![Static Badge](https://img.shields.io/badge/-ffffff?style=plastic&&logo=github&logoColor=black)
-Personnel Security](/gov/ps.md)
+Personnel Security](/policies/ps.md)
 <br>
 [![Static Badge](https://img.shields.io/badge/-ffffff?style=plastic&&logo=github&logoColor=black)
-Risk Assessment](/gov/ra.md)
+Risk Assessment](/policies/ra.md)
 <br>
 [![Static Badge](https://img.shields.io/badge/-ffffff?style=plastic&&logo=github&logoColor=black)
-System and Services Acquisition](/gov/sa.md)
+System and Services Acquisition](/policies/sa.md)
 <br>
 [![Static Badge](https://img.shields.io/badge/-ffffff?style=plastic&&logo=github&logoColor=black)
-System and Communications Protection](/gov/sc.md)
+System and Communications Protection](/policies/sc.md)
 <br>
 [![Static Badge](https://img.shields.io/badge/-ffffff?style=plastic&&logo=github&logoColor=black)
-System and Information Integrity](/gov/si.md)
+System and Information Integrity](/policies/si.md)
 <br>
 [![Static Badge](https://img.shields.io/badge/-ffffff?style=plastic&&logo=github&logoColor=black)
-Supply Chain Risk Management](/gov/sr.md)
+Supply Chain Risk Management](/policies/sr.md)
 <br>
