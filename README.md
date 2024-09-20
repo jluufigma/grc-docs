@@ -6,7 +6,7 @@
 config:
  themeCSS: white
  sankey: 
-  showValues: true
+  showValues: false
   width: 1000
   height: 800
   linkColor: 'gradient'
@@ -34,6 +34,8 @@ FedRAMP,System And Services Acquisition,1
 FedRAMP,System And Communications Protection,1
 FedRAMP,System And Information Integrity,1
 FedRAMP,Supply Chain Risk Management,1
+FedRAMP,Continuous Monitoring,1
+
 ISO 27001,Access Control,1
 ISO 27001,Audit And Accountability,1
 ISO 27001,Contingency Planning,1
@@ -69,9 +71,29 @@ TISAX,Risk Assessment,1
 TISAX,System And Services Acquisition,1
 TISAX,System And Information Integrity,1
 TISAX,Supply Chain Risk Management,1
+ISO 42001,AI Management,1
+ISO 42001,Risk Assessment,1
+ISO 42001,System And Services Acquisition,1
+ISO 42001,System And Communications Protection,1
+ISO 42001,System And Information Integrity,1
+ISO 42001,Supply Chain Risk Management,1
+C5,Access Control,1
+C5,Audit And Accountability,1
+C5,Security Assessment And Authorization,1
+C5,Configuration Management,1
+C5,Contingency Planning,1
+C5,Incident Response,1
+C5,Physical And Environmental Protection,1
+C5,Planning,1
+C5,Risk Assessment,1
+C5,System And Communications Protection,1
+C5,System And Information Integrity,1
+C5,Supply Chain Risk Management,1
 
 
 ```
+
+
 
 [![Static Badge](https://img.shields.io/badge/-ffffff?style=plastic&&logo=github&logoColor=black)
 Access Control](/policies/ac.md)
