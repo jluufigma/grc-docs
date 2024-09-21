@@ -8,10 +8,10 @@ header-includes: |
     \usepackage{fancyhdr}        
     \usepackage{geometry}
     \pagestyle{fancy}
-    \fancyhead[L]{\today}
-    \fancyhead[C]}
+    \fancyhead[L]{Internal}
+    \fancyhead[C]{}
     \fancyhead[R]{Figma}
-    \fancyfoot[L]{Internal}
+    \fancyfoot[L]{As of \today}
     \fancyfoot[C]{}
     \fancyfoot[R]{\thepage}
 ---
