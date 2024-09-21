@@ -8,11 +8,11 @@ header-includes: |
     \usepackage{fancyhdr}        
     \usepackage{geometry}
     \pagestyle{fancy}
-    \fancyhead[L]{As of: /today}
-    \fancyhead[C]{ }
+    \fancyhead[L]{/today}
+    \fancyhead[C]{date}
     \fancyhead[R]{Figma}
     \fancyfoot[L]{Internal}
-    \fancyfoot[C]{ }
+    \fancyfoot[C]{date-meta}
     \fancyfoot[R]{\thepage}
 ---
 ![Static Badge](https://img.shields.io/badge/Figma_for_Government-red?logo=figma&logoColor=ffffff)
